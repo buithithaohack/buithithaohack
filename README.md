@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @buithithaohack
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-buithithaohack/buithithaohack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->https://github.com/thaohack/slowloris
+@thaohack{thaohackslowloris,
+title = "Slowloris",
+ journal = "github.com",
+ year = "2022"
+ url = "https://github.com/gkbrk/slowloris"
+}
